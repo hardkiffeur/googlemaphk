@@ -1,7 +1,7 @@
 K2 plugin GoogleMap HK
 =================
 
-One of the things that make K2 very powerful is the K2 plugin API, which is built on top of Joomla!'s plugin API.
+One of the things that make K2 very powerful is the K2 plugin API, which is built on top of Joomla!'s plugin API. See more : http://getk2.org/
 
 Using a K2 plugin you can easily extend the forms used for items, categories and user profiles.
 That means you can write a simple plugin to add additional fields and extend K2 forms beyond "extra fields". So you can write any plugin that brings programmatic logic inside the K2 item, category and user forms, which is by definition beyond the powers of any "CCK" system.
